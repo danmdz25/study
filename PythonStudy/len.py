@@ -1,0 +1,1 @@
+print(len('daniel mendes'))
